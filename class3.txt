@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 This is the first version 
-=======
-This is the first version
-This is the 2nd version
-This is the 3rd version
->>>>>>> bug
+
